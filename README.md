@@ -15,7 +15,7 @@ where
 
         e = number of edges
 		
-		    c = number of od nodes
+        c = number of od nodes
 
         p = number of od pairs with trips
 
@@ -27,7 +27,7 @@ where
 
         i = Edge ID
 		
-	    	a = node ID of the first node
+        a = node ID of the first node
         
         b = node ID of the second node
 
@@ -48,7 +48,7 @@ The next line d lines contains the information about the od pairs with trips:
 
 where
 
-	    	a = node ID of the first OD node
+        a = node ID of the first OD node
         
         b = node ID of the second OD node
         
